@@ -1,5 +1,6 @@
+## Project Title :End-to-End AI Development: Product Category Classification from Raw Store Shelf Images
 
-Each class folder contains labeled product images used for image classification tasks.
+Taken 9000 images,18 class,,each class folder contains labeled product images used for image classification tasks.
 
 ---
 
@@ -17,11 +18,9 @@ Through this project, we learned:
   - Confusion matrix
   - Classification reports
   - Training curves
-- Optional deployment via **Streamlit web application**
-
 ---
 
-##  Workflow / Project Plan
+##  Workflow 
 
 ### 1) Dataset Preparation
 - Dataset download from provided Drive link  
@@ -38,10 +37,7 @@ Through this project, we learned:
   - brightness variation
 
 ### 3) Model Building
-- CNN model from scratch and/or transfer learning with:
-  - VGG16
-  - ResNet50
-  - MobileNetV2
+- CNN model from scratch 
 - Dense layers + softmax output
 
 ### 4) Training & Evaluation
@@ -68,7 +64,6 @@ Through this project, we learned:
 
 - **Programming:** Python  
 - **Libraries:** TensorFlow/Keras, NumPy, OpenCV, Matplotlib, Scikit-learn  
-- **Pretrained Models:** VGG16, ResNet50, MobileNetV2  
 - **IDE:** Google Colab / Jupyter Notebook  
 - **Deployment:** Streamlit
 
@@ -87,3 +82,4 @@ Through this project, we learned:
 ### Step 1: Install Requirements
 ```bash
 pip install -r requirements.txt
+
