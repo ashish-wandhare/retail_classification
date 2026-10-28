@@ -215,9 +215,9 @@ The project provides practical experience in Computer Vision, deep learning, ima
 
 ---
 
-GitHub: Repository
+## 🔗 Project Links
 
-Streamlit Cloud: Live Demo
-
-AWS EC2: Live Demo
+- **GitHub Repository:** [retail_classification](https://github.com/ashish-wandhare/retail_classification)
+- **Streamlit Cloud:** [Live Demo](https://ashish-retailclassification.streamlit.app/)
+- **AWS EC2:** [Live Demo](http://13.239.147.87:8503/)
 
