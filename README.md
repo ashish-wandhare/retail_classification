@@ -215,5 +215,9 @@ The project provides practical experience in Computer Vision, deep learning, ima
 
 ---
 
-**Developed by Ashish Wandhare**  
-[GitHub](https://github.com/ashish-wandhare)
+GitHub: Repository
+
+Streamlit Cloud: Live Demo
+
+AWS EC2: Live Demo
+
