@@ -221,3 +221,9 @@ The project provides practical experience in Computer Vision, deep learning, ima
 - **Streamlit Cloud:** [Live Demo](https://ashish-retailclassification.streamlit.app/)
 - **AWS EC2:** [Live Demo](http://13.239.147.87:8503/)
 
+## 📸 Application Screenshots
+<img width="1917" height="737" alt="1_main_page" src="https://github.com/user-attachments/assets/d6d859dd-4f37-4776-84ea-553dcfa7ea9a" />
+<img width="1917" height="937" alt="2_prediction" src="https://github.com/user-attachments/assets/f46d5cdf-0d30-4f01-a2c0-c339f4e9ef3a" />
+<img width="1912" height="920" alt="3_prediction" src="https://github.com/user-attachments/assets/0660b0e1-0ebc-4986-a341-64aa85e61fa1" />
+
+
